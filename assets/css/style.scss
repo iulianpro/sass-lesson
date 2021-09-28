@@ -1,7 +1,9 @@
-$colors : (primary: #005dff,
+$colors : (
+    primary: #005dff,
     primary-light: lighten(#005dff, 40%),
     primary-dark: darken(#005dff, 40%),
-    accent: #fff6bb);
+    accent: #fff6bb
+);
 
 $padding : 15px;
 $borders: 15px;
